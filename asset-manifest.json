@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/refactored-barnacle/static/css/main.5bf596fe.chunk.css",
+    "main.js": "/refactored-barnacle/static/js/main.cba72dc7.chunk.js",
+    "main.js.map": "/refactored-barnacle/static/js/main.cba72dc7.chunk.js.map",
+    "runtime-main.js": "/refactored-barnacle/static/js/runtime-main.80de3e57.js",
+    "runtime-main.js.map": "/refactored-barnacle/static/js/runtime-main.80de3e57.js.map",
+    "static/js/2.119f6b82.chunk.js": "/refactored-barnacle/static/js/2.119f6b82.chunk.js",
+    "static/js/2.119f6b82.chunk.js.map": "/refactored-barnacle/static/js/2.119f6b82.chunk.js.map",
+    "static/js/3.1aa0f804.chunk.js": "/refactored-barnacle/static/js/3.1aa0f804.chunk.js",
+    "static/js/3.1aa0f804.chunk.js.map": "/refactored-barnacle/static/js/3.1aa0f804.chunk.js.map",
+    "index.html": "/refactored-barnacle/index.html",
+    "static/css/main.5bf596fe.chunk.css.map": "/refactored-barnacle/static/css/main.5bf596fe.chunk.css.map",
+    "static/js/2.119f6b82.chunk.js.LICENSE.txt": "/refactored-barnacle/static/js/2.119f6b82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80de3e57.js",
+    "static/js/2.119f6b82.chunk.js",
+    "static/css/main.5bf596fe.chunk.css",
+    "static/js/main.cba72dc7.chunk.js"
+  ]
+}
